@@ -1,4 +1,4 @@
-Activity Order:
+Activity Order (based on a reworking of original robotics activity):
 
 I suggest students build up a set of tested functions in myfunctions.py they can then include
 
